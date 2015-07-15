@@ -1,0 +1,2 @@
+#!/bin/bash
+nodemon -e coffee ./bin/server.js | bunyan

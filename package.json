@@ -1,0 +1,35 @@
+{
+  "name": "Aurora_coffee",
+  "version": "1.0.0",
+  "description": "Aurora starts here",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/weiwanning/Aurora_coffee.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/weiwanning/Aurora_coffee/issues"
+  },
+  "homepage": "https://github.com/weiwanning/Aurora_coffee",
+  "dependencies": {
+    "express": "~4.0.0",
+    "static-favicon": "~1.0.0",
+    "morgan": "~1.0.0",
+    "cookie-parser": "~1.0.1",
+    "body-parser": "~1.0.0",
+    "debug": "~0.7.4",
+    "ejs": "~0.8.5",
+    "bunyan": "^1.3.3",
+    "coffee-script": "^1.9.0",
+    "consolidate": "^0.10.0",
+    "express-xml-bodyparser": "0.0.7",
+    "eliza": "0.0.1-2",
+    "pg": "^4.3.0",
+    "mongodb": "^2.0.35"
+  }
+}
